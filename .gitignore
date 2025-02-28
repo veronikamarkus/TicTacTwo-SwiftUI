@@ -1,0 +1,65 @@
+# Xcode Workspace & Project Files
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdatad*
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Build Artifacts
+DerivedData/
+Build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+/.swiftpm/
+/.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# User-Specific Files (Editor settings, etc.)
+*.swp
+*.swo
+*.DS_Store
+*.user
+*.userprefs
+
+# Environment Variables
+.env
+
+# User Settings (Xcode specific settings)
+xcuserdata/
+
+# Objective-C / Swift Specific Files
+*.hmap
+
+# App Packaging (IPA and dSYM files)
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds (Xcode Playgrounds related files)
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager - Optional for dependency source code
+# Uncomment if you want to avoid checking in Swift Package Manager dependency files.
+# Packages/
+# Package.pins
+# Package.resolved
+# .swiftpm
+
+# Carthage Checkout (Avoid checking in Carthage dependencies source code)
+# Carthage/Checkouts
