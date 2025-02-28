@@ -13,7 +13,7 @@ An engaging Tic-Tac-Two game built using **SwiftUI** for iOS. This app allows us
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/veronikamarkus/tic-tac-toe.git
+    git clone https://github.com/veronikamarkus/TicTacTwo-SwiftUI.git
     ```
 
 2. Open the project in **Xcode**:
